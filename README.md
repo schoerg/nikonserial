@@ -1,9 +1,13 @@
 # nikonserial
 Research on the serial protocol used in Nikon film cameras like the F100.
 
-# Why
+# What?
 
 Some Nikon film cameras (like F5, F6, F100 ...) allow you to save settings (ISO, aperture, lens ...) for each shot to an internal storage. You can compare that to modern EXIF metadata, but it's not the same technically. Nikon also sold an external device to save that data onto a CF card called MV-1. It's now very hard to get such a thing for a reasonable price.
+
+# Why?
+
+If you digitalise your film rolls you won't have that data anymore but the settings used by your scanner/camera. If you have written down your settings for each shot you can manually edit the EXIF data to show the "proper" value. 
 
 # Interesting links
 
