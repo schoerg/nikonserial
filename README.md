@@ -12,7 +12,11 @@ If you digitalise your film rolls you won't have that data anymore but the setti
 # How?
 
 The Nikon cameras in question have a 10-pin connector used for remote releases. It also features a TTL serial port. Voltage levels are at 5V.
-Documentation about the serial port is not readily available, you can see some links in the last section. There are tools available for readout like "Camera Companion" and SoftTALK. Both are closed source programs. I have not found a Linux (or open source alternative). 
+Documentation about the serial port is not readily available, you can see some links in the last section. There are tools available for readout like "Camera Companion" and SoftTALK. Both are closed source programs. I have not found a Linux (or open source alternative).
+
+# Hardware
+
+There is no need to buy special hardware, a cheap FTDI or similar USB-to-Serial device will work. Connect RX to TX and vice versa and GND to GND. If you have a voltage selector, use 5V. 3V3 might work, it did not for me.
 
 # Interesting links
 
