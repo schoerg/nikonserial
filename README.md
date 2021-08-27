@@ -7,7 +7,12 @@ Some Nikon film cameras (like F5, F6, F100 ...) allow you to save settings (ISO,
 
 # Why?
 
-If you digitalise your film rolls you won't have that data anymore but the settings used by your scanner/camera. If you have written down your settings for each shot you can manually edit the EXIF data to show the "proper" value. 
+If you digitalise your film rolls you won't have that data anymore but the settings used by your scanner/camera. If you have written down your settings for each shot you can manually edit the EXIF data to show the "proper" value.
+
+# How?
+
+The Nikon cameras in question have a 10-pin connector used for remote releases. It also features a TTL serial port. Voltage levels are at 5V.
+Documentation about the serial port is not readily available, you can see some links in the last section. There are tools available for readout like "Camera Companion" and SoftTALK. Both are closed source programs. I have not found a Linux (or open source alternative). 
 
 # Interesting links
 
