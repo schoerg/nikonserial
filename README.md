@@ -7,7 +7,7 @@ Some Nikon film cameras (like F5, F6, F100 ...) allow you to save settings (ISO,
 
 # Why?
 
-If you digitalise your film rolls you won't have that data anymore but the settings used by your scanner/camera. If you have written down your settings for each shot you can manually edit the EXIF data to show the "proper" value.
+If you digitalise your film rolls you won't have that data anymore but the settings used by your scanner/camera. If you have written down your settings for each shot you can manually edit the EXIF data to show the "proper" values.
 
 # How?
 
